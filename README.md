@@ -48,4 +48,8 @@ Output of the application for clean input files:
   - Excel
 
 ## Project
-![WBS](Doc/WBS.jpg "WBS of project")
+### WBS of project
+![WBS](Doc/WBS.jpg)
+### Result of Application
+![ResultOfApp](Doc/Result_Mutated_File.jpg)
+
